@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "moving-box-tracker",
+  "group": "business",
+  "refreshMinutes": 30
+}
