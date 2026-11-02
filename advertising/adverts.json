@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "rotationSeconds": 8,
+  "ads": [
+    {
+      "id": "elevor360d-apps",
+      "type": "own",
+      "title": "Discover Elevor360D Apps",
+      "business": "Elevor360D",
+      "url": "https://elevor360d.co.uk/",
+      "image": "images/elevor360d-apps.jpg",
+      "active": true,
+      "start": "",
+      "end": "",
+      "weight": 1,
+      "target": "all",
+      "appIds": [],
+      "description": "Explore the range of Elevor360D apps"
+    }
+  ]
+}
